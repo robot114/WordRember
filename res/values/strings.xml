@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WordRember</string>
+    <string name="title_section_new">背新词</string>
+    <string name="title_section_test">小测试</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="labelEnToCh">英-&gt;汉</string>
+    <string name="labelChToEn">汉-&gt;英</string>
+    <string name="labelLangRandom">英汉随机</string>
+    <string name="actionLoadFileTitle">加载单词文件</string>
+    <string name="labelOrderInupt">排版顺序</string>
+    <string name="labelOrderAlphabet">字母顺序</string>
+    <string name="labelOrderRandom">随机顺序</string>
+    <string name="labelRefresh">刷新</string>
+    <string name="titleSelectChapter">选择一个章节</string>
+    <string name="resultRight">回答正确！</string>
+    <string name="resultWrong">回答错误！</string>
+    <string name="titleCheck">检查结果</string>
+    <string name="titleHint">提示</string>
+    <string name="msgNoMoreWordInChapter">本章已经完成，你打算：</string>
+    <string name="msgNoMoreChapter">本书最后一章已经完成，你打算：</string>
+    <string name="titleThisChapterAgain">重新本章</string>
+    <string name="titleNextChapter">开始下章</string>
+    <string name="titleThisBookAgain">本书从头开始</string>
+    
+</resources>

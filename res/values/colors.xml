@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_background">#808080</color>
+    <color name="result_right">#FF00FF00</color>
+    <color name="result_wrong">#FFFF0000</color>
+    
+</resources>
